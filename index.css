@@ -13,3 +13,7 @@ body{
     display: grid;
     place-content: center;
 }
+
+.picture-container img{
+    display: none;
+}
